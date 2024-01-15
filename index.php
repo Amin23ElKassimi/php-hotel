@@ -55,13 +55,13 @@ $hotels = [
 
 <div class="container mt-5">
     <table class="table">
-        <thead class="text-primary">
+        <thead >
             <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Parking</th>
-                <th>Vote</th>
-                <th>Distance to Center (Km)</th>
+                <th class="text-primary">Name</th>
+                <th class="text-primary">Description</th>
+                <th class="text-primary">Parking</th>
+                <th class="text-primary">Vote</th>
+                <th class="text-primary">Distance to Center (Km)</th>
             </tr>
         </thead>
         <tbody class="text-center">
